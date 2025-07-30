@@ -1,6 +1,6 @@
 ## yo sup!
 
-# I AM OPEN FOR WORK
+### I AM OPEN FOR WORK - Contact me here: [Issues](https://github.com/thallosaurus/.github/issues)
 
 My name is Philipp and I create code. I am passionate about building strange tools, cyberdelic systems and operating systems. Computers are an extension of our mind and as such should be treated like one.
 
@@ -12,14 +12,14 @@ My name is Philipp and I create code. I am passionate about building strange too
 
 ## my toolbox
 - Languages: Rust, TypeScript, Go
-- Tools: Docker, Git (ya dont say), Web Technologies, Blender, VueJS and Postgres
+- Tools: Docker, Git (ya dont say), Web Technologies, Blender, VueJS, MacOS, Linux and Postgres
 
 ---
 ## I don’t code just for utility. I code because it allows me to shape the world the way I feel it should be. Between logic and emotion lies creation.
 ---
 
 ## reach me:
-Because I don't want to doxx myself, I can only offer you my contact over GitHub. Contact me here over the "Issues" tab.
+Because I don't want to doxx myself, I can only offer you my contact over GitHub. Contact me here over the [Issues](https://github.com/thallosaurus/.github/issues) tab.
 
 And yes, I am very open for business work. #pleaseJustHireMeForGodsSake
 
